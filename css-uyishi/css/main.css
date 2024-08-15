@@ -1,0 +1,84 @@
+.box{
+    width: 1200px;
+    margin: 0 auto;
+}
+.a{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style: solid;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 230px;
+    border-style: dashed;
+}
+.d{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 360px;
+    border-style: dotted;
+}
+.e{
+    height: 100px;
+    width:100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 490px;
+    border-style: double;
+}
+.f{
+    height: 100px;
+    width:100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style: inset;
+}
+.g{
+    height: 100px;
+    width:100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 230px;
+    border-style: outset;
+}
+.h{
+    height: 100px;
+    width:100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 360px;
+    border-style: groove;
+}
+.i{
+    height: 100px;
+    width:100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 490px;
+    border-style: ridge;
+}

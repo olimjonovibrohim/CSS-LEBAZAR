@@ -1,0 +1,121 @@
+body{
+    width: 1200px;
+}
+.qoplam{
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color: white;
+    margin-top: 20px;
+    border-bottom: 1px solid lightgrey;
+}
+.rasm{
+    float: left;
+}
+.rasm img{
+    width: 160px;
+    margin-left: 197px;
+    margin-top: 20px;
+}
+.poisk{
+    float: left;
+}
+.poisk input{
+    width: 500px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.savat{
+    width: 150px;
+    height: 40px;
+    margin-left: 1100px;
+    margin-top: 20px;
+    background-color: lawngreen;
+}
+.bol1{
+    margin-top: 325px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bol2{
+    margin-top: 325px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bol3{
+    margin-top: 325px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bol4{
+    margin-top: 325px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bol5{
+    margin-top: 325px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.leg1{
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    height: 290px;
+    margin-left: 170px;
+}
+.leg2{
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    height: 300px;
+    margin-left: 400px;
+}
+.leg3{
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    height: 300px;
+    margin-left: 600px;
+}
+.leg4{
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    height: 300px;
+    margin-left: 800px;
+}
+.leg5{
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    height: 300px;
+    margin-left: 1000px;
+}
+.leg6{
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    height: 300px;
+    margin-left: 1200px;
+}
+.rasm-ol{
+    width: 180px;
+    height: 180px;
+}
